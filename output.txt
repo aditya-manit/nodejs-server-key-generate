@@ -1,12 +1,1 @@
-
-- name: test
-  type: local
-  address: evmos1wvh7emlm44q09pprcpqwch9jwz5a25mw8dwm2u
-  pubkey: '{"@type":"/ethermint.crypto.v1.ethsecp256k1.PubKey","key":"AvgamMXL6jMAx6cK8x6o7ecWEAArFDgOfabnZPFQ4IwH"}'
-  mnemonic: ""
-
-
-**Important** write this mnemonic phrase in a safe place.
-It is the only way to recover your account if you ever forget your password.
-
-pig shuffle valley limb anchor expand gold rack engine hen save network detect connect hollow delay pottery industry art ticket load lizard awake ignore
+{"name":"test","type":"local","address":"evmos1y2dwcp4atlfrs4chxxsfwvcl86a607h0254z90","pubkey":"{\"@type\":\"/ethermint.crypto.v1.ethsecp256k1.PubKey\",\"key\":\"A5Z1KPo055Z2XrUTxnxudOxVB3pN7ThTu5NWh98AkP6U\"}","mnemonic":"exist sugar hire lift nature joy radio pyramid human sea possible year news october rain series digital usual diary nature wrong kitten trend digital"}
